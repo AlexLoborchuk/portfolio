@@ -1,0 +1,39 @@
+.header{
+    background-color: #f4f5f6;
+    margin-left: 50px;
+    margin-right: 20px;
+   
+}
+.menu{
+    /* display: flex;
+    justify-content: space-around; */
+    list-style-type: none;
+    padding: 10px;
+    margin-top: 80px;
+    position: sticky;
+    top: 10px;
+}
+.icon_portfolio{
+    margin-right: 7px;
+}
+.menu_button{
+    padding: 5px 10px 5px 10px;
+}
+.menu_text{
+    font-family: 'Roboto', sans-serif;  
+    color:  #7a7a52;
+}
+.menu_text:hover{
+    color: black;
+    border-bottom: 0.7px solid rgb(141, 88, 88);
+}
+.menu_text:active{
+    color: black;
+}
+.name_project{
+    padding: 15px 0 0 35px;
+    font-family: 'Roboto', sans-serif;
+}
+.active_button{
+    font-weight: bold;
+}
