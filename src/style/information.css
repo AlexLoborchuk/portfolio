@@ -1,64 +1,64 @@
-.information_block{
- width: 50%;
- margin-right: 50px;
- margin-top: 140px;
+.information_block {
+  width: 50%;
+  margin-right: 50px;
+  margin-top: 140px;
 }
-.title{
-    padding-top: 20px;
-    padding-left: 30px;
-    padding-bottom: 10px;
-    border-bottom: 0.7px solid #e0d9d2;
-    font-family: 'Roboto', sans-serif;
-    font-size: 1.3em;
+.title {
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  border-bottom: 0.7px solid #e0d9d2;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.3em;
 }
-.about_me{
-    display: flex;
-    font-family: 'Roboto', serif;
+
+.about_me {
+  display: flex;
+  font-family: "Roboto", serif;
 }
-.contacts_date{
-    float: right;
-    font-family: 'Roboto', serif;
+.contacts_date {
+  float: right;
+  font-family: "Roboto", serif;
 }
-.name_data{
-    font-weight: bold;
-    font-family: 'Roboto', serif;
-    font-size: 0.9em;
+.name_data {
+  font-weight: bold;
+  font-family: "Roboto", serif;
+  font-size: 0.9em;
 }
-.message{
-   width: 45%;
-   padding: 20px;
-   border-right: 0.7px solid   #e0d9d2;
+.message {
+  width: 45%;
+  padding: 20px;
+  border-right: 0.7px solid #e0d9d2;
 }
-.contacts{
-    width: 55%;
+.contacts {
+  width: 55%;
 }
-.information{
-    padding: 20px;
-    font-family: 'Roboto', serif;
-  
+.information {
+  padding: 20px;
+  font-family: "Roboto", serif;
 }
-.projects_block{
-    display: flex;
-    flex-direction: column;
-    padding-bottom: 50px;
+.projects_block {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 50px;
 }
-.project_title{
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
+.project_title {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
 }
-.project{
-    padding: 50px;
-    width: 200px;
-    height: 230px;
+.project {
+  padding: 50px;
+  width: 200px;
+  height: 230px;
 }
-.projects_img{
-    width: 200px;
-    height: 200px;
+.projects_img {
+  width: 200px;
+  height: 200px;
 }
-.project_name{
-    color: #000;
-    text-decoration: none;
+.project_name {
+  color: #000;
+  text-decoration: none;
 }
-.project:hover{
-    transform: scale(1.1);
+.project:hover {
+  transform: scale(1.1);
 }

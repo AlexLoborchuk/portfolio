@@ -1,4 +1,8 @@
-.page{
-    display: flex;
-    justify-content: space-around;
-};
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap");
+
+.page {
+  display: flex;
+  justify-content: space-around;
+  width: 95%;
+  margin: 0 auto;
+}
